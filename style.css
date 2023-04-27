@@ -1,0 +1,78 @@
+*{
+    color: white;
+}
+h2
+{
+font-size: 40px;
+margin-left: 180px;
+font-family: 'Righteous', cursive;
+font-weight: bold;
+}
+body
+{
+    background-color :gray;
+}
+.container
+{
+    width: 700px;
+    height: 400px;
+    background-color:cornflowerblue;
+    margin-left: 350px;
+    margin-top: 160px;
+    border-radius: 10px;
+}
+label
+{
+    
+font-family: 'Roboto Slab', serif;
+margin-left: 50px;
+height:100px;
+font-size: 20px;
+font-weight: bold;
+}
+#billlabel
+{
+
+   margin-right: 80px;
+}
+
+input
+{
+    
+    border-radius: 10px;
+    height: 25px;
+    width: 200px;
+    padding: 10px;
+    color: blue;
+    margin: 10px;
+    font-size: larger;
+    font-weight: 30px;
+}
+#calculator
+{
+padding: 15px;
+margin-left: 200px;
+color:darkcyan;
+border-radius: 10px;
+font-weight: bold;
+font-size: x-large;
+
+}
+#calculator:hover{
+    background-color: burlywood;
+
+}
+#total
+{
+    text-align: center;
+}
+#unamec
+{
+    margin-right: 10px;
+    color: blue;
+    
+}
+#licon
+{
+    margin-left: 550px;
+}
